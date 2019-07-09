@@ -1,0 +1,133 @@
+! Title: Gizmodo Element Block
+! Expires: 7 days
+! Description: Filters to block annoying Gizmodo elements
+! Homepage: https://github.com/4thguy/gizmodo-element-block
+! Licence: 
+! 
+! GitHub issues: https://github.com/4thguy/gizmodo-element-block/issues
+! GitHub pull requests: https://github.com/4thguy/gizmodo-element-block/pulls
+
+! Identified annoyances:
+! var elements = [
+!     'gizmodo.com##.js_topbar',
+!     'gizmodo.com##.curation-mountain__module',
+!     'gizmodo.com###sidebar_wrapper',
+!     'gizmodo.com###sidebar_wrapper',
+!     'gizmodo.com##.sidebar',
+!     'gizmodo.com##.sidebar',
+!     'gizmodo.com##.inset--story',
+!     'gizmodo.com##.instream-permalink',
+! ];
+! var sites = [
+!     'avclub.com',
+!     'deadspin.com',
+!     'gizmodo.com',
+!     'jalopnik.com',
+!     'jezebel.com',
+!     'kotaku.com',
+!     'lifehacker.com',
+!     'theroot.com',
+!     'splinternews.com',
+!     'thetakeout.com',
+!     'clickhole.com',
+!     'theonion.com',
+!     'theinventory.com',
+! ];
+! sites.forEach((site) => {
+!   elements.forEach((element) => {
+!     console.log(element.replace('gizmodo.com', site));
+!   });
+!   console.log('\n');
+! });
+
+avclub.com##.js_topbar 
+avclub.com##.curation-mountain__module 
+avclub.com###sidebar_wrapper
+avclub.com##.sidebar
+avclub.com##.inset--story 
+avclub.com##.instream-permalink 
+
+deadspin.com##.js_topbar 
+deadspin.com##.curation-mountain__module 
+deadspin.com###sidebar_wrapper
+deadspin.com##.sidebar
+deadspin.com##.inset--story 
+deadspin.com##.instream-permalink 
+
+gizmodo.com##.js_topbar 
+gizmodo.com##.curation-mountain__module 
+gizmodo.com###sidebar_wrapper
+gizmodo.com##.sidebar
+gizmodo.com##.inset--story 
+gizmodo.com##.instream-permalink 
+
+jalopnik.com##.js_topbar 
+jalopnik.com##.curation-mountain__module 
+jalopnik.com###sidebar_wrapper
+jalopnik.com##.sidebar
+jalopnik.com##.inset--story 
+jalopnik.com##.instream-permalink 
+
+jezebel.com##.js_topbar 
+jezebel.com##.curation-mountain__module 
+jezebel.com###sidebar_wrapper
+jezebel.com##.sidebar
+jezebel.com##.inset--story 
+jezebel.com##.instream-permalink 
+
+kotaku.com##.js_topbar 
+kotaku.com##.curation-mountain__module 
+kotaku.com###sidebar_wrapper
+kotaku.com##.sidebar
+kotaku.com##.inset--story 
+kotaku.com##.instream-permalink 
+
+lifehacker.com##.js_topbar 
+lifehacker.com##.curation-mountain__module 
+lifehacker.com###sidebar_wrapper
+lifehacker.com##.sidebar
+lifehacker.com##.inset--story 
+lifehacker.com##.instream-permalink 
+
+theroot.com##.js_topbar 
+theroot.com##.curation-mountain__module 
+theroot.com###sidebar_wrapper
+theroot.com##.sidebar
+theroot.com##.inset--story 
+theroot.com##.instream-permalink 
+
+splinternews.com##.js_topbar 
+splinternews.com##.curation-mountain__module 
+splinternews.com###sidebar_wrapper
+splinternews.com##.sidebar
+splinternews.com##.inset--story 
+splinternews.com##.instream-permalink 
+
+thetakeout.com##.js_topbar 
+thetakeout.com##.curation-mountain__module 
+thetakeout.com###sidebar_wrapper
+thetakeout.com##.sidebar
+thetakeout.com##.inset--story 
+thetakeout.com##.instream-permalink 
+
+clickhole.com##.js_topbar 
+clickhole.com##.curation-mountain__module 
+clickhole.com###sidebar_wrapper
+clickhole.com##.sidebar
+clickhole.com##.inset--story 
+clickhole.com##.instream-permalink 
+
+theonion.com##.js_topbar 
+theonion.com##.curation-mountain__module 
+theonion.com###sidebar_wrapper
+theonion.com##.sidebar
+theonion.com##.inset--story 
+theonion.com##.instream-permalink 
+
+
+theinventory.com##.js_topbar 
+theinventory.com##.curation-mountain__module 
+theinventory.com###sidebar_wrapper
+theinventory.com##.sidebar
+theinventory.com##.inset--story 
+theinventory.com##.instream-permalink
