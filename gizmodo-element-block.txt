@@ -9,7 +9,7 @@
 
 ! Identified annoyances:
 ! var elements = [
-!     'gizmodo.com##.js_topbar',
+!     'gizmodo.com##.topnav',
 !     'gizmodo.com##.curation-mountain__module',
 !     'gizmodo.com###sidebar_wrapper',
 !     'gizmodo.com###sidebar_wrapper',
@@ -17,6 +17,8 @@
 !     'gizmodo.com##.sidebar',
 !     'gizmodo.com##.inset--story',
 !     'gizmodo.com##.instream-permalink',
+!     'gizmodo.com##.instream-native-video--frontpage',
+!     'gizmodo.com##[data-commerce-source="streamshare"]',
 ! ];
 ! var sites = [
 !     'avclub.com',
@@ -40,94 +42,119 @@
 !   console.log('\n');
 ! });
 
-avclub.com##.js_topbar 
-avclub.com##.curation-mountain__module 
+avclub.com##.topnav
+avclub.com##.curation-mountain__module
 avclub.com###sidebar_wrapper
 avclub.com##.sidebar
-avclub.com##.inset--story 
-avclub.com##.instream-permalink 
+avclub.com##.inset--story
+avclub.com##.instream-permalink
+avclub.com##.instream-native-video--frontpage
+avclub.com##[data-commerce-source="streamshare"]
 
-deadspin.com##.js_topbar 
-deadspin.com##.curation-mountain__module 
+deadspin.com##.topnav
+deadspin.com##.curation-mountain__module
 deadspin.com###sidebar_wrapper
 deadspin.com##.sidebar
-deadspin.com##.inset--story 
-deadspin.com##.instream-permalink 
+deadspin.com##.inset--story
+deadspin.com##.instream-permalink
+deadspin.com##.instream-native-video--frontpage
+deadspin.com##[data-commerce-source="streamshare"]
 
-gizmodo.com##.js_topbar 
-gizmodo.com##.curation-mountain__module 
+gizmodo.com##.topnav
+gizmodo.com##.curation-mountain__module
 gizmodo.com###sidebar_wrapper
 gizmodo.com##.sidebar
-gizmodo.com##.inset--story 
-gizmodo.com##.instream-permalink 
+gizmodo.com##.inset--story
+gizmodo.com##.instream-permalink
+gizmodo.com##.instream-native-video--frontpage
+gizmodo.com##[data-commerce-source="streamshare"]
 
-jalopnik.com##.js_topbar 
-jalopnik.com##.curation-mountain__module 
+jalopnik.com##.topnav
+jalopnik.com##.curation-mountain__module
 jalopnik.com###sidebar_wrapper
 jalopnik.com##.sidebar
-jalopnik.com##.inset--story 
-jalopnik.com##.instream-permalink 
+jalopnik.com##.inset--story
+jalopnik.com##.instream-permalink
+jalopnik.com##.instream-native-video--frontpage
+jalopnik.com##[data-commerce-source="streamshare"]
 
-jezebel.com##.js_topbar 
-jezebel.com##.curation-mountain__module 
+jezebel.com##.topnav
+jezebel.com##.curation-mountain__module
 jezebel.com###sidebar_wrapper
 jezebel.com##.sidebar
-jezebel.com##.inset--story 
-jezebel.com##.instream-permalink 
+jezebel.com##.inset--story
+jezebel.com##.instream-permalink
+jezebel.com##.instream-native-video--frontpage
+jezebel.com##[data-commerce-source="streamshare"]
 
-kotaku.com##.js_topbar 
-kotaku.com##.curation-mountain__module 
+kotaku.com##.topnav
+kotaku.com##.curation-mountain__module
 kotaku.com###sidebar_wrapper
 kotaku.com##.sidebar
-kotaku.com##.inset--story 
-kotaku.com##.instream-permalink 
+kotaku.com##.inset--story
+kotaku.com##.instream-permalink
+kotaku.com##.instream-native-video--frontpage
+kotaku.com##[data-commerce-source="streamshare"]
 
-lifehacker.com##.js_topbar 
-lifehacker.com##.curation-mountain__module 
+lifehacker.com##.topnav
+lifehacker.com##.curation-mountain__module
 lifehacker.com###sidebar_wrapper
 lifehacker.com##.sidebar
-lifehacker.com##.inset--story 
-lifehacker.com##.instream-permalink 
+lifehacker.com##.inset--story
+lifehacker.com##.instream-permalink
+lifehacker.com##.instream-native-video--frontpage
+lifehacker.com##[data-commerce-source="streamshare"]
 
-theroot.com##.js_topbar 
-theroot.com##.curation-mountain__module 
+theroot.com##.topnav
+theroot.com##.curation-mountain__module
 theroot.com###sidebar_wrapper
 theroot.com##.sidebar
-theroot.com##.inset--story 
-theroot.com##.instream-permalink 
+theroot.com##.inset--story
+theroot.com##.instream-permalink
+theroot.com##.instream-native-video--frontpage
+theroot.com##[data-commerce-source="streamshare"]
 
-splinternews.com##.js_topbar 
-splinternews.com##.curation-mountain__module 
+splinternews.com##.topnav
+splinternews.com##.curation-mountain__module
 splinternews.com###sidebar_wrapper
 splinternews.com##.sidebar
-splinternews.com##.inset--story 
-splinternews.com##.instream-permalink 
+splinternews.com##.inset--story
+splinternews.com##.instream-permalink
+splinternews.com##.instream-native-video--frontpage
+splinternews.com##[data-commerce-source="streamshare"]
 
-thetakeout.com##.js_topbar 
-thetakeout.com##.curation-mountain__module 
+thetakeout.com##.topnav
+thetakeout.com##.curation-mountain__module
 thetakeout.com###sidebar_wrapper
 thetakeout.com##.sidebar
-thetakeout.com##.inset--story 
-thetakeout.com##.instream-permalink 
+thetakeout.com##.inset--story
+thetakeout.com##.instream-permalink
+thetakeout.com##.instream-native-video--frontpage
+thetakeout.com##[data-commerce-source="streamshare"]
 
-clickhole.com##.js_topbar 
-clickhole.com##.curation-mountain__module 
+clickhole.com##.topnav
+clickhole.com##.curation-mountain__module
 clickhole.com###sidebar_wrapper
 clickhole.com##.sidebar
-clickhole.com##.inset--story 
-clickhole.com##.instream-permalink 
+clickhole.com##.inset--story
+clickhole.com##.instream-permalink
+clickhole.com##.instream-native-video--frontpage
+clickhole.com##[data-commerce-source="streamshare"]
 
-theonion.com##.js_topbar 
-theonion.com##.curation-mountain__module 
+theonion.com##.topnav
+theonion.com##.curation-mountain__module
 theonion.com###sidebar_wrapper
 theonion.com##.sidebar
-theonion.com##.inset--story 
-theonion.com##.instream-permalink 
+theonion.com##.inset--story
+theonion.com##.instream-permalink
+theonion.com##.instream-native-video--frontpage
+theonion.com##[data-commerce-source="streamshare"]
 
-
-theinventory.com##.js_topbar 
-theinventory.com##.curation-mountain__module 
+theinventory.com##.topnav
+theinventory.com##.curation-mountain__module
 theinventory.com###sidebar_wrapper
 theinventory.com##.sidebar
-theinventory.com##.inset--story 
+theinventory.com##.inset--story
 theinventory.com##.instream-permalink
+theinventory.com##.instream-native-video--frontpage
+theinventory.com##[data-commerce-source="streamshare"]
