@@ -10,7 +10,7 @@
 ! Identified annoyances:
 ! var elements = [
 !     'gizmodo.com##.topnav',
-!     'gizmodo.com##.curation-mountain__module',
+!     'gizmodo.com##.curation-mountain',
 !     'gizmodo.com###sidebar_wrapper',
 !     'gizmodo.com###sidebar_wrapper',
 !     'gizmodo.com##.sidebar',
@@ -43,7 +43,7 @@
 ! });
 
 avclub.com##.topnav
-avclub.com##.curation-mountain__module
+avclub.com##.curation-mountain
 avclub.com###sidebar_wrapper
 avclub.com##.sidebar
 avclub.com##.inset--story
@@ -52,7 +52,7 @@ avclub.com##.instream-native-video--frontpage
 avclub.com##[data-commerce-source="streamshare"]
 
 deadspin.com##.topnav
-deadspin.com##.curation-mountain__module
+deadspin.com##.curation-mountain
 deadspin.com###sidebar_wrapper
 deadspin.com##.sidebar
 deadspin.com##.inset--story
@@ -61,7 +61,7 @@ deadspin.com##.instream-native-video--frontpage
 deadspin.com##[data-commerce-source="streamshare"]
 
 gizmodo.com##.topnav
-gizmodo.com##.curation-mountain__module
+gizmodo.com##.curation-mountain
 gizmodo.com###sidebar_wrapper
 gizmodo.com##.sidebar
 gizmodo.com##.inset--story
@@ -70,7 +70,7 @@ gizmodo.com##.instream-native-video--frontpage
 gizmodo.com##[data-commerce-source="streamshare"]
 
 jalopnik.com##.topnav
-jalopnik.com##.curation-mountain__module
+jalopnik.com##.curation-mountain
 jalopnik.com###sidebar_wrapper
 jalopnik.com##.sidebar
 jalopnik.com##.inset--story
@@ -79,7 +79,7 @@ jalopnik.com##.instream-native-video--frontpage
 jalopnik.com##[data-commerce-source="streamshare"]
 
 jezebel.com##.topnav
-jezebel.com##.curation-mountain__module
+jezebel.com##.curation-mountain
 jezebel.com###sidebar_wrapper
 jezebel.com##.sidebar
 jezebel.com##.inset--story
@@ -88,7 +88,7 @@ jezebel.com##.instream-native-video--frontpage
 jezebel.com##[data-commerce-source="streamshare"]
 
 kotaku.com##.topnav
-kotaku.com##.curation-mountain__module
+kotaku.com##.curation-mountain
 kotaku.com###sidebar_wrapper
 kotaku.com##.sidebar
 kotaku.com##.inset--story
@@ -97,7 +97,7 @@ kotaku.com##.instream-native-video--frontpage
 kotaku.com##[data-commerce-source="streamshare"]
 
 lifehacker.com##.topnav
-lifehacker.com##.curation-mountain__module
+lifehacker.com##.curation-mountain
 lifehacker.com###sidebar_wrapper
 lifehacker.com##.sidebar
 lifehacker.com##.inset--story
@@ -106,7 +106,7 @@ lifehacker.com##.instream-native-video--frontpage
 lifehacker.com##[data-commerce-source="streamshare"]
 
 theroot.com##.topnav
-theroot.com##.curation-mountain__module
+theroot.com##.curation-mountain
 theroot.com###sidebar_wrapper
 theroot.com##.sidebar
 theroot.com##.inset--story
@@ -115,7 +115,7 @@ theroot.com##.instream-native-video--frontpage
 theroot.com##[data-commerce-source="streamshare"]
 
 splinternews.com##.topnav
-splinternews.com##.curation-mountain__module
+splinternews.com##.curation-mountain
 splinternews.com###sidebar_wrapper
 splinternews.com##.sidebar
 splinternews.com##.inset--story
@@ -124,7 +124,7 @@ splinternews.com##.instream-native-video--frontpage
 splinternews.com##[data-commerce-source="streamshare"]
 
 thetakeout.com##.topnav
-thetakeout.com##.curation-mountain__module
+thetakeout.com##.curation-mountain
 thetakeout.com###sidebar_wrapper
 thetakeout.com##.sidebar
 thetakeout.com##.inset--story
@@ -133,7 +133,7 @@ thetakeout.com##.instream-native-video--frontpage
 thetakeout.com##[data-commerce-source="streamshare"]
 
 clickhole.com##.topnav
-clickhole.com##.curation-mountain__module
+clickhole.com##.curation-mountain
 clickhole.com###sidebar_wrapper
 clickhole.com##.sidebar
 clickhole.com##.inset--story
@@ -142,7 +142,7 @@ clickhole.com##.instream-native-video--frontpage
 clickhole.com##[data-commerce-source="streamshare"]
 
 theonion.com##.topnav
-theonion.com##.curation-mountain__module
+theonion.com##.curation-mountain
 theonion.com###sidebar_wrapper
 theonion.com##.sidebar
 theonion.com##.inset--story
@@ -151,7 +151,7 @@ theonion.com##.instream-native-video--frontpage
 theonion.com##[data-commerce-source="streamshare"]
 
 theinventory.com##.topnav
-theinventory.com##.curation-mountain__module
+theinventory.com##.curation-mountain
 theinventory.com###sidebar_wrapper
 theinventory.com##.sidebar
 theinventory.com##.inset--story
